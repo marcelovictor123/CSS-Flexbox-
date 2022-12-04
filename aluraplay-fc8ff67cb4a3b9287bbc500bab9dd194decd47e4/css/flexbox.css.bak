@@ -8,7 +8,6 @@
 	top: 0;
 }
 
-
 .cabecalho__pesquisar__item {
 	display: none;
 }
